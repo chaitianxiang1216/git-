@@ -13,5 +13,10 @@ hello atguigu!  hello git
 hello atguigu!  hello git
 hello atguigu!  hello git baibingyv gugugu
 hello atguigu!  hello git
+<<<<<<< HEAD
 hello atguigu!  hello git master test
+=======
+hello atguigu!  hello git
+hello atguigu!  hello git hhh
+>>>>>>> hot-fix
 hello atguigu!  hello git hot-fix test
